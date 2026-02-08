@@ -1,7 +1,7 @@
 [
   {
-    "name": "Database1",
-    "supabase_url": "https://your-project-id-1.supabase.co",
+    "name": "RSVPro",
+    "supabase_url": "https://ggesdwbfmwhckuxpgptw.supabase.co",
     "supabase_key_env": "SUPABASE_KEY_1",
     "table_name": "keep-alive"
   },
